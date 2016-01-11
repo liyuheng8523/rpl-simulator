@@ -1,0 +1,1 @@
+A small linux/gtk application allowing to simulate the behavior of a RPL based wireless network. A lot of RPL parameters and external factors are configurable and controllable in real time. The global and individual performances and characteristics are observable in real time as well.
